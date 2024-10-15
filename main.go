@@ -1,0 +1,1 @@
+package main; import ("fmt"; "strconv"); func main() { var year string; fmt.Print("🤖 Введіть рік: "); fmt.Scanln(&year); y, _ := strconv.Atoi(year); result := map[bool]string{true: "🎉 Високосний!", false: "❌ Не високосний."}[y%4 == 0 && (y%100 != 0 || y%400 == 0)]; fmt.Printf("Рік %d є %s 🤔\n", y, result) }
