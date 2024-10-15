@@ -24,10 +24,8 @@ package main; import ("fmt"; "strconv"); func main() { var year string; fmt.Prin
 
 ## Приклад роботи
 
-![Приклад роботи коду](URL_вашого_зображення) 
-
-Або ви можете додати посилання на відео, якщо маєте:
-[Переглянути відео](URL_вашого_відео)
+![image](https://github.com/user-attachments/assets/ac917634-2f1a-4cfb-a3c2-17dad64abf3e)
+![image](https://github.com/user-attachments/assets/01bc69c9-8717-4018-8d65-b47e989f5098)
 
 ## Контриб'ютори
 
