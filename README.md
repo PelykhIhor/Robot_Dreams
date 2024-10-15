@@ -27,6 +27,11 @@ package main; import ("fmt"; "strconv"); func main() { var year string; fmt.Prin
 ![image](https://github.com/user-attachments/assets/ac917634-2f1a-4cfb-a3c2-17dad64abf3e)
 ![image](https://github.com/user-attachments/assets/01bc69c9-8717-4018-8d65-b47e989f5098)
 
+## Кількість символів
+
+![image](https://github.com/user-attachments/assets/3e18f9fe-e5a1-475d-9bd3-06db03e7f0cc)
+
+
 ## Контриб'ютори
 
-- **Ігор** (ваше ім'я) 😊
+- **Ігор** 😊
